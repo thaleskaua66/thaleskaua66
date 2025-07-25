@@ -1,7 +1,10 @@
 <div align="center">
   <img width="120px" src="https://github.com/thaleskaua66/thaleskaua66/blob/main/dancingCat.gif" alt="Gif of a Cat Dancing">
-  <h3>A front-end developer who loves challenges.</h3>
+  <h3>I am Thalison</h3>
+  <h3>A front-end developer who loves challenges</h3>
 </div>
+
+- aaaa
 
 
 
