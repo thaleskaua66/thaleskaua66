@@ -1,8 +1,11 @@
 <div align="center">
   <img width="120px" src="https://github.com/thaleskaua66/thaleskaua66/blob/main/dancingCat.gif" alt="Gif of a Cat Dancing">
+  <h3>A front-end developer who loves challenges.</h3>
 </div>
 
-### A front-end developer who loves challenges.
+
+
+
 
 <!--
 **thaleskaua66/thaleskaua66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
