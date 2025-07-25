@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/thaleskaua66/thaleskaua66/blob/main/dancingCat.gif" alt="Gif of a Cat Dancing">
+  <img width="120px" src="https://github.com/thaleskaua66/thaleskaua66/blob/main/dancingCat.gif" alt="Gif of a Cat Dancing">
 </div>
 
 <!--
