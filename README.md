@@ -4,7 +4,7 @@
   <h3>A front-end developer who loves challenges</h3>
 </div>
 <hr>
-- aaaa
+- 🌱 I’m currently learning `Svelte`
 
 
 
