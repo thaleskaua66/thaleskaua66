@@ -1,6 +1,5 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/thaleskaua66/count.svg" alt="Visitor's Count" />
+<div>
+  <img src="https://github.com/thaleskaua66/thaleskaua66/dancingCat.gif" alt="Gif of a Cat Dancing">
 </div>
 
 <!--
