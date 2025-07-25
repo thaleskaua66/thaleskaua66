@@ -3,7 +3,7 @@
   <h3>I am Thalison</h3>
   <h3>A front-end developer who loves challenges</h3>
 </div>
-
+<hr>
 - aaaa
 
 
