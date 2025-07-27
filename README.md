@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Svelte<br>🎯 Goals: Find a job 🥀<br>🎲 Fun fact: I'm goated</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently creating my own programming language<br>🎯 Goals: Find a job 🥀<br>🎲 Fun fact: I'm goated</p>
 
 ###
 
