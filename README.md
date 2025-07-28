@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey yoooo 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Thalison and I'm a front-end developer, from Brazil.</p>
+<p align="left">My name is Thalison and I'm a front-end developer, from Brazil that sometimes does back-end projects aswell. I'm learning something new almost all of the time and i am available for anything.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently: creating my own interpreter<br>🎯 Goals: None 🥀<br>🎲 Fun fact: I'm goated</p>
+<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently: learning something<br>🎯 Goals: None 🥀<br>🎲 Fun fact: I'm goated</p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
