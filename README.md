@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently: learning something<br>🎯 Goals: None 🥀<br>🎲 Fun fact: I'm goated</p>
+<p align="left">✨ Creating bugs since: 2023<br>📚 I'm currently: learning Blender<br>🎯 Goals: None 🥀<br>🎲 Fun fact: I'm goated</p>
 
 ###
 
