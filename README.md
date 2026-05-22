@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Federal Institute tasks**<br>🌱 I’m currently learning **Vuejs and C**<br>👯 I’m looking to collaborate on **Python tools and websites**<br>👨‍💻 All of my projects are available at [https://github.com/thaleskaua66](https://github.com/thaleskaua66)<br>💬 Ask me about **Vue, C, Python, JS or Tailwind**<br>📫 How to reach me **thaleskaua66@gmail.com**<br>⚡ Fun fact **I'm goated**
+🔭 I’m currently working on **Federal Institute tasks**<br>🌱 I’m currently learning **OpenGL**<br>👯 I’m looking to collaborate on **Python tools and websites**<br>👨‍💻 All of my projects are available at [https://github.com/thaleskaua66](https://github.com/thaleskaua66)<br>💬 Ask me about **Vue, C, Python, JS or Tailwind**<br>📫 How to reach me **thaleskaua66@gmail.com**<br>⚡ Fun fact **I'm goated**
 
 
 ## 🌐 Socials:
